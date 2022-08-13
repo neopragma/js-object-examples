@@ -76,15 +76,15 @@ Session 2: JavaScript Fundamentals Part 2 (Week 11 - 8/9/2022)
 
 ## Running the examples 
 
-You can run the *.js files from a command line using node, like this:
+You can run the JavaScript files from a command line using node, like this:
 
-node objectproperties.js
-node objectfromfunction.js
-node objectprototype.js
-node javascriptclass.js
-node greeter.js Samantha english
-node greeter.js 賢司 japanese
-node greeter.js Eduardo spanish 
-node classygreeter.js Samantha english
-node classygreeter.js 賢司 japanese
-node classygreeter.js Eduardo spanish 
+- node objectproperties.js
+- node objectfromfunction.js
+- node objectprototype.js
+- node javascriptclass.js
+- node greeter.js Samantha english
+- node greeter.js 賢司 japanese
+- node greeter.js Eduardo spanish 
+- node classygreeter.js Samantha english
+- node classygreeter.js 賢司 japanese
+- node classygreeter.js Eduardo spanish 
