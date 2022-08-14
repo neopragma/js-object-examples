@@ -98,7 +98,7 @@ class JapaneseGreeter extends BaseGreeter {
         return (hour > 5 && hour <= 17) ? 'こんにちは' : 'こんばんは';  // konnichiwa, konbanwa
 	}
 	greeting(name) {
-		return `${this.timeOfDay()}, ${name}! ${this.dayName()}を楽しんでください。` // [whatever]youbi o tanoshinde kudasai
+		return `${this.timeOfDay()}, ${name}さん! ${this.dayName()}を楽しんでください。` // [whatever]youbi o tanoshinde kudasai
 	}
 }
 
